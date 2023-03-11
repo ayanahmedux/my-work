@@ -1,0 +1,43 @@
+li:hover{
+    /* text-decoration: underline;  */
+     /* /* background-color: aqua;  */
+     background-color: aqua; 
+    border-radius: 1px;
+ 
+ 
+   }
+ 
+ nav{
+   background-color: #fbfbfb;
+   color: black; 
+ }
+ .abc{
+  color: #fbfbfb;
+  font-size: 50px;
+
+ }
+ .card {
+  transition: all 0.3s;
+  /* overflow: hidden; */
+}
+ .card :hover{
+  transform: scale(1.15);
+ }
+
+ul img{
+  height: 40px;
+  color: #fbfbfb  !important;
+}
+ul{
+ margin-left: auto; 
+}
+.d1{
+  border-left: 6px #fbfbfb ;
+  height: 420px;
+    position: absolute;
+    left: 50%;
+    margin-left: -4px;
+    top: 60px;
+
+}
+
